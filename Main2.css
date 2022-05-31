@@ -1,0 +1,50 @@
+﻿.h2 {
+    color:#ffffff !important;
+    font-family:'A Massir Ballpoint';
+}
+.TitleNav {
+        width: 750px;
+        margin-top: 2px;
+        border-radius:5px;
+        padding: 5px;
+        font-family: Rekaa;
+        font-size: 25px;
+        text-align:right;
+        color:#7a181f !important;
+}
+
+.BoxNav {
+        width: 805px;
+        height:1000px;
+        overflow-y:scroll;
+        margin-top: 2px;
+        padding: 10px; 
+        font-family: Rekaa;
+        font-size: 25px;
+}
+/*ayat*/
+.seg {
+    color:black;
+    font-size:30px;
+        text-align:center;
+}
+
+.pre {
+    color: grey;
+    font-size:25px;
+    width:380px;
+    text-align:right;
+}
+
+.post {
+    color:gray;
+    font-size:25px;
+    width:400px !important;
+  text-align:left;
+  margin-right:300px;
+}
+.hr1 {
+    height:3px;
+     color:#fff;
+      width:500px;
+}
